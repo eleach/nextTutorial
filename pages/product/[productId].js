@@ -11,7 +11,7 @@ export default function ProductDetail() {
 	return (
 		<div>
 
-			<h1> Details about Product { id } </h1>
+			<h1> Details about Product ID { id } </h1>
 			
 		</div>
 	)
